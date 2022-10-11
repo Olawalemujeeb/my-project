@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+
+}
+.logo_img{
+    width: 130px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.mybtn{
+    border: 2px solid white;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    width: 130px;
+}
+.main{
+    background: deeppink;
+}
+.main h2{
+    margin-left: 100px;
+    font-weight: 900;
+    font-size: 60px;
+    color: white;
+    text-shadow: 0 5px 4px black;
+    margin-right: 12px;
+    margin-top: 52px;
+}
+.main p{
+    margin-left: 100px;
+    font-size: 14px;
+    color: white;
+    font-weight: 400px;
+}
+.we{
+    background-color: whitesmoke;
+    padding: 35px;
+border: 1px solid rgb(172,156,156);
+border-radius: 0.5rem;
+padding-top: 2px;
+box-shadow: 4px 4px 5px black;
+}
+.we:hover{
+    transform: translateY(-30px);
+    transition: .5 ease-in;
+}
+.con{ 
+    height: 70px;
+    background-color:red;
+    padding: 20px;
+    border-radius: 0.5rem;
+    text-align: center;
+
+}
+span i{
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+}
+.wee{
+    background-color: white;
+    padding: 35px;
+border: 1px solid rgb(172,156,156);
+border-radius: 0.5rem;
+padding-top: 2px;
+box-shadow: 4px 4px 5px black;
+}
+.wee:hover:hover{
+    transform: translateY(-30px);
+    transition: 2s ease-in;
+}
+li{
+    list-style: none;
+}
+@media (max-width:412px){
+    .main h2{
+        margin-left: 40px;
+        font-weight: 700;
+        font-size: 30px;
+        color: white;
+        text-shadow: 0 5px 4px black;
+        align-items: center;
+    }
+    .main p{
+        margin-left: 40px;
+font-size: 14px;
+color: white;
+    }
+    .main button{
+        margin-left: -2px;
+        font-size: 14px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

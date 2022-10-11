@@ -1,0 +1,222 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+/* 1st header starts */
+
+.first{
+    display: flex;
+justify-content: space-between;
+background: white;
+width: auto;
+}
+.navbar{
+    background: whitesmoke;
+    height:13vh;
+}
+.navbar h2{
+    margin-left: 60px;
+}
+.okay{
+    margin-top: 5px;
+    margin-left: 30px;
+}
+header .icons a{
+    margin: 10px;
+}
+.new{
+    display: flex;
+    margin-left: 80px;
+    top: 2px;
+
+}
+.icons{
+    margin-right:100px ;
+}
+.icons .we{
+    background-color: grey;
+    border-radius: 50%;
+    border: 1px lightblue grey;
+    padding: 13px;
+
+}
+.icons .wee{
+background-color: grey;
+border-radius:5px ;
+}
+/* 1st header ends */
+
+/* navbar starts here */
+.second{
+    display: flex;
+    margin-top: 8px;
+}
+.second .logo{
+    margin-left: 60px;
+}
+.navv ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.navv{
+    margin-left: 610px;
+    
+}
+.navbar h2{
+    letter-spacing: 3px;
+    font-weight:350 ;
+color: royalblue;
+}
+.navbar{
+    position: fixed;
+
+}
+/* .cap h2{
+    margin-right: 560px;
+    font-size: 60px;
+    color: blue;
+    margin-bottom: 20px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.cap p{
+    font-weight: 700;
+    margin-right: 450px;
+    color: red;
+}
+.cap .vibez{
+    color: black;
+    font-family: sans-serif;
+}
+.cap{
+
+    margin-bottom: 220px;
+    margin-right: 100px;
+} */
+
+/* .caption{
+    margin-bottom: 200px;
+} */
+ /* section{
+   background: black;
+   height: 600px; 
+   overflow: hidden;
+   width: 100vw;
+} 
+.over img{
+    opacity:  0.4 ;
+} */
+ .carousel-caption h2{
+    color:#fff;
+    font-size: 70px;
+    font-family: serif;
+    margin-bottom: 700px;
+    /* margin-right: 2900px; */
+    font-weight: 200;
+    text-align: end;
+    margin-right: 700px;
+    
+} 
+.carousel-caption p{
+    margin-bottom: 570px;
+    margin-right: 600px;
+    color: lightblue;
+    font-weight: 700;
+    font-size: 15px;
+}
+.carousel-caption  button{
+    width: 130px;
+    padding: 6px;
+    color: white;
+    background: purple;
+    font-weight: 500;
+    border: none;
+    margin-top: 5px;
+}
+.aboutus{
+    margin-top: 15px;
+}
+.about-us{
+    display: flex;
+    justify-content: space-around;
+
+}
+.aboutus h1{
+    text-align: center;
+    margin-left: 30px;
+}
+.aboutus img{
+  
+  height: 70vh; 
+  margin-left: 170px;
+}
+.info{
+    margin-left: 50px;
+}
+.info h2{
+    text-align: center;
+    margin-top: 30px;
+    color: grey;
+}
+.info p{
+    color: grey;
+    font-weight: 400;
+    font-style: italic;
+    margin-left: 160px;
+}
+.info img{
+    width: 100px;
+    height: 13vh;
+    margin-right: 10px;
+}
+.lorem{
+display: flex;
+}
+.lorem .ig{
+background: grey;
+}
+.lorem2{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
